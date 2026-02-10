@@ -102,14 +102,12 @@ Band-Name-Generator/
 │       └── main.css          # Main stylesheet
 ├── views/
 │   ├── index.ejs             # Main page template
-│   ├── solution.ejs          # Solution page template
 │   └── partials/
 │       ├── header.ejs        # Header partial
 │       ├── footer.ejs        # Footer partial
 │       ├── solution-header.ejs
 │       └── solution-footer.ejs
 ├── index.js                  # Main server file
-├── solution.js               # Solution reference
 ├── package.json              # Project dependencies
 ├── LICENSE                   # MIT License
 └── README.md                 # This file
